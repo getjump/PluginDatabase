@@ -58,8 +58,8 @@ Python is no longer officially supported by Millennium and will be removed entir
 |-----|--------|
 | RSS-feed-in-whats-new | augmented-steam |
 | achievement-groups | extendium |
-| adamraichu.auto-accept-custom-launch-args | fullscreen-notifications-fix |
-| aerothemesteam | non-steam-playtimes |
+| adamraichu.auto-accept-custom-launch-args | fullscreen-notifications-fix (in-progress) |
+| aerothemesteam | non-steam-playtimes (in-progress) |
 | csstats-extension | steam-browser-history |
 | cswatch-plugin | steamdb |
 | dotastats |  |
