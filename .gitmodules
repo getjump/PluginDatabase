@@ -79,3 +79,6 @@
 [submodule "plugins/gratitude"]
 	path = plugins/gratitude
 	url = https://github.com/BlythT/Gratitude-Millennium-Plugin
+[submodule "plugins/protondb-badges"]
+	path = plugins/protondb-badges
+	url = git@github.com:getjump/millennium-protondb-library-plugin.git
